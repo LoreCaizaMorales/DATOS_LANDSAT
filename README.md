@@ -1,4 +1,4 @@
-# DATOS_LANDSAT
+# PREPARACIÓN DE LA SERIE TEMPORAL LANDSAT
 La herramienta es un notebook en lenguaje Python que utiliza las librerías de GEE para automatizar la descarga de datos Landsat armonizados apartir de una archivo vectorial de puntos
 1. Realiza una armonización de sensores Landsat
 2. Aplica una mascara de nubes
