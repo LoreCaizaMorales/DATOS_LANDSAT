@@ -1,4 +1,4 @@
-# PREPARACIÓN DE LA SERIE TEMPORAL LANDSAT
+#1. PREPARACIÓN DE LA SERIE TEMPORAL LANDSAT
 La herramienta es un notebook en lenguaje Python que utiliza las librerías de GEE para automatizar la descarga de datos Landsat armonizados apartir de una archivo vectorial de puntos
 1. Realiza una armonización de sensores Landsat
 2. Aplica una mascara de nubes
@@ -10,3 +10,9 @@ La herramienta es un notebook en lenguaje Python que utiliza las librerías de G
 6. Corta la imagen segun un buffer seleccionado por el usuario
 7. Genera la orden de descarga 
 Los archivos son almacenados directamente en la carpeta de Drive designada por la cuenta de GEE.
+Y están listos para aplicarse Edyn
+#2. Aplicar EDYN
+La herramienta Edyn esta disponible en el repositorio de su autor
+Brooks, E.B., Yang, Z.Q., Thomas, V.A., and Wynne, R.H. Edyn: Dynamic Signaling of Changes to Forests Using Exponentially Weighted Moving Average Charts. Forests.
+https://vtechworks.lib.vt.edu/items/accd5793-a8f6-4adf-afe5-d9e2712246c4
+
